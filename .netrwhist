@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/arhautau/.rvm/gems/ruby-1.9.2-p290/gems/jquery-rails-1.0.19'
+let g:netrw_dirhist_2='/Users/arhautau/.vim/bundle/snipMate/doc'
+let g:netrw_dirhist_3='/Users/arhautau/Project/blog/.git/info'
